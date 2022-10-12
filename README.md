@@ -1,4 +1,4 @@
-# SCLC_cancereffectsizeR
+# CancereffectsizeR
 
 This is the file containing all data sets used in the Letter to the Editor: _In Response to “De Novo KRAS G12C–Mutant SCLC: A Case Report”_.
 
